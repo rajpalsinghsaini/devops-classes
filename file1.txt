@@ -1,2 +1,1 @@
 file1.txt created in the git
-second line added in file1.txt
