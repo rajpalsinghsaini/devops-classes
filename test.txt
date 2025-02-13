@@ -1,3 +1,6 @@
 text.txt file created to test git reset command
 second line
 third line
+fourth line added
+fifth line added
+sixth line added
