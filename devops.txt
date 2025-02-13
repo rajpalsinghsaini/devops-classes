@@ -2,3 +2,4 @@ This is the DevOps file to store the DevOps related information
 second line
 devops content added to check the code
 devops file
+line added to test git fetch command
